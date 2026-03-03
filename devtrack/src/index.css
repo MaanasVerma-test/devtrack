@@ -1,0 +1,12 @@
+/* Reset Vite default dark theme */
+
+body {
+  margin: 0;
+  background-color: #cbc3a2;
+  color: #000000;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
